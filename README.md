@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Data science related projects.
 - 📫 How to reach me ...
   - :office: [LinkedIn](https://www.linkedin.com/in/lavanya-thippineni-311930212/)
-  - :E-mail: lavanyathippineni@gmail.com
+  - lavanyathippineni@gmail.com
 - 👨‍💻 All of my projects are available at  https://github.com/LavanyaThippineni
 <!---
 LavanyaThippineni/LavanyaThippineni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
