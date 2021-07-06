@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm LavanyaThippineni</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-- 👀 I’m interested in Learning new technologies and grow in a brighter way.
+   
+   
+   - 👀 I’m interested in Learning new technologies and grow in a brighter way.
 - 🌱 I’m currently learning Data Science course at innomatics research labs.
 - 💞️ I’m looking to collaborate on Data science related projects.
 - 📫 How to reach me ...
